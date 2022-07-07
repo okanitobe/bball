@@ -1,0 +1,83 @@
+G,Date,Home/Away,Opponent,Win/Loss,OT,Points Scored,Points Allowed,Cumulative W,Cumulative L,Starter 1,Starter 2,Starter 3,Starter 4,Starter 5
+1,2021-10-19,Home,Golden State Warriors,L,,114,121,0,1,K. Bazemore,A. Davis,L. James,D. Jordan,R. Westbrook
+2,2021-10-22,Home,Phoenix Suns,L,,105,115,0,2,K. Bazemore,A. Davis,L. James,D. Jordan,R. Westbrook
+3,2021-10-24,Home,Memphis Grizzlies,W,,121,118,1,2,K. Bazemore,A. Davis,L. James,D. Jordan,R. Westbrook
+4,2021-10-26,Away,San Antonio Spurs,W,OT,125,121,2,2,K. Bazemore,A. Davis,D. Jordan,M. Monk,R. Westbrook
+5,2021-10-27,Away,Oklahoma City Thunder,L,,115,123,2,3,K. Bazemore,A. Davis,D. Jordan,M. Monk,R. Westbrook
+6,2021-10-29,Home,Cleveland Cavaliers,W,,113,101,3,3,K. Bazemore,A. Davis,L. James,D. Jordan,R. Westbrook
+7,2021-10-31,Home,Houston Rockets,W,,95,85,4,3,K. Bazemore,A. Bradley,A. Davis,L. James,R. Westbrook
+8,2021-11-02,Home,Houston Rockets,W,,119,117,5,3,K. Bazemore,A. Bradley,A. Davis,L. James,R. Westbrook
+9,2021-11-04,Home,Oklahoma City Thunder,L,,104,107,5,4,K. Bazemore,A. Bradley,A. Davis,D. Jordan,R. Westbrook
+10,2021-11-06,Away,Portland Trail Blazers,L,,90,105,5,5,K. Bazemore,A. Bradley,A. Davis,D. Jordan,R. Westbrook
+11,2021-11-08,Home,Charlotte Hornets,W,OT,126,123,6,5,K. Bazemore,A. Bradley,A. Davis,D. Jordan,R. Westbrook
+12,2021-11-10,Home,Miami Heat,W,OT,120,117,7,5,K. Bazemore,A. Bradley,A. Davis,D. Jordan,R. Westbrook
+13,2021-11-12,Home,Minnesota Timberwolves,L,,83,107,7,6,K. Bazemore,A. Bradley,A. Davis,W. Ellington,R. Westbrook
+14,2021-11-14,Home,San Antonio Spurs,W,,114,106,8,6,C. Anthony,A. Bradley,A. Davis,T. Horton-Tucker,R. Westbrook
+15,2021-11-15,Home,Chicago Bulls,L,,103,121,8,7,C. Anthony,A. Bradley,A. Davis,T. Horton-Tucker,R. Westbrook
+16,2021-11-17,Away,Milwaukee Bucks,L,,102,109,8,8,C. Anthony,A. Bradley,A. Davis,T. Horton-Tucker,R. Westbrook
+17,2021-11-19,Away,Boston Celtics,L,,108,130,8,9,A. Bradley,A. Davis,T. Horton-Tucker,L. James,R. Westbrook
+18,2021-11-21,Away,Detroit Pistons,W,,121,116,9,9,A. Bradley,A. Davis,L. James,D. Jordan,R. Westbrook
+19,2021-11-23,Away,New York Knicks,L,,100,106,9,10,A. Bradley,A. Davis,T. Horton-Tucker,D. Jordan,R. Westbrook
+20,2021-11-24,Away,Indiana Pacers,W,OT,124,116,10,10,A. Bradley,T. Horton-Tucker,L. James,D. Jordan,R. Westbrook
+21,2021-11-26,Home,Sacramento Kings,L,3OT,137,141,10,11,A. Bradley,A. Davis,L. James,D. Jordan,R. Westbrook
+22,2021-11-28,Home,Detroit Pistons,W,,110,106,11,11,A. Bradley,A. Davis,L. James,D. Jordan,R. Westbrook
+23,2021-11-30,Away,Sacramento Kings,W,,117,92,12,11,A. Davis,W. Ellington,T. Horton-Tucker,D. Jordan,R. Westbrook
+24,2021-12-03,Home,Los Angeles Clippers,L,,115,119,12,12,A. Davis,T. Horton-Tucker,D. Howard,L. James,R. Westbrook
+25,2021-12-07,Home,Boston Celtics,W,,117,102,13,12,A. Bradley,A. Davis,T. Horton-Tucker,L. James,R. Westbrook
+26,2021-12-09,Away,Memphis Grizzlies,L,,95,108,13,13,A. Bradley,A. Davis,T. Horton-Tucker,L. James,R. Westbrook
+27,2021-12-10,Away,Oklahoma City Thunder,W,,116,95,14,13,A. Bradley,T. Horton-Tucker,D. Howard,L. James,R. Westbrook
+28,2021-12-12,Home,Orlando Magic,W,,106,94,15,13,A. Bradley,T. Horton-Tucker,D. Howard,L. James,R. Westbrook
+29,2021-12-15,Away,Dallas Mavericks,W,OT,107,104,16,13,A. Bradley,A. Davis,W. Ellington,L. James,R. Westbrook
+30,2021-12-17,Away,Minnesota Timberwolves,L,,92,110,16,14,K. Bazemore,A. Davis,W. Ellington,L. James,R. Westbrook
+31,2021-12-19,Away,Chicago Bulls,L,,110,115,16,15,W. Ellington,L. James,D. Jordan,I. Thomas,R. Westbrook
+32,2021-12-21,Home,Phoenix Suns,L,,90,108,16,16,W. Ellington,T. Horton-Tucker,L. James,D. Jordan,R. Westbrook
+33,2021-12-23,Home,San Antonio Spurs,L,,110,138,16,17,W. Ellington,T. Horton-Tucker,D. Howard,L. James,R. Westbrook
+34,2021-12-25,Home,Brooklyn Nets,L,,115,122,16,18,W. Ellington,T. Horton-Tucker,D. Howard,L. James,R. Westbrook
+35,2021-12-28,Away,Houston Rockets,W,,132,123,17,18,A. Bradley,L. James,S. Johnson,M. Monk,R. Westbrook
+36,2021-12-29,Away,Memphis Grizzlies,L,,99,104,17,19,A. Bradley,D. Howard,L. James,M. Monk,R. Westbrook
+37,2021-12-31,Home,Portland Trail Blazers,W,,139,106,18,19,A. Bradley,L. James,S. Johnson,M. Monk,R. Westbrook
+38,2022-01-02,Home,Minnesota Timberwolves,W,,108,103,19,19,A. Bradley,L. James,S. Johnson,M. Monk,R. Westbrook
+39,2022-01-04,Home,Sacramento Kings,W,,122,114,20,19,T. Ariza,A. Bradley,L. James,M. Monk,R. Westbrook
+40,2022-01-07,Home,Atlanta Hawks,W,,134,118,21,19,A. Bradley,L. James,S. Johnson,M. Monk,R. Westbrook
+41,2022-01-09,Home,Memphis Grizzlies,L,,119,127,21,20,A. Bradley,L. James,S. Johnson,M. Monk,R. Westbrook
+42,2022-01-12,Away,Sacramento Kings,L,,116,125,21,21,T. Ariza,A. Bradley,L. James,M. Monk,R. Westbrook
+43,2022-01-15,Away,Denver Nuggets,L,,96,133,21,22,A. Bradley,D. Howard,L. James,M. Monk,R. Westbrook
+44,2022-01-17,Home,Utah Jazz,W,,101,95,22,22,T. Ariza,A. Bradley,D. Howard,L. James,R. Westbrook
+45,2022-01-19,Home,Indiana Pacers,L,,104,111,22,23,T. Ariza,A. Bradley,D. Howard,L. James,R. Westbrook
+46,2022-01-21,Away,Orlando Magic,W,,116,105,23,23,T. Ariza,A. Bradley,D. Howard,L. James,R. Westbrook
+47,2022-01-23,Away,Miami Heat,L,,107,113,23,24,T. Ariza,A. Bradley,D. Howard,L. James,R. Westbrook
+48,2022-01-25,Away,Brooklyn Nets,W,,106,96,24,24,A. Bradley,A. Davis,L. James,S. Johnson,R. Westbrook
+49,2022-01-27,Away,Philadelphia 76ers,L,,87,105,24,25,A. Bradley,A. Davis,S. Johnson,M. Monk,R. Westbrook
+50,2022-01-28,Away,Charlotte Hornets,L,,114,117,24,26,A. Bradley,W. Ellington,S. Johnson,D. Jordan,R. Westbrook
+51,2022-01-30,Away,Atlanta Hawks,L,,121,129,24,27,A. Bradley,A. Davis,S. Johnson,M. Monk,R. Westbrook
+52,2022-02-02,Home,Portland Trail Blazers,W,,99,94,25,27,A. Bradley,A. Davis,S. Johnson,M. Monk,R. Westbrook
+53,2022-02-03,Away,Los Angeles Clippers,L,,110,111,25,28,A. Bradley,A. Davis,S. Johnson,M. Monk,R. Westbrook
+54,2022-02-05,Home,New York Knicks,W,OT,122,115,26,28,A. Davis,L. James,S. Johnson,M. Monk,R. Westbrook
+55,2022-02-08,Home,Milwaukee Bucks,L,,116,131,26,29,T. Ariza,A. Davis,L. James,M. Monk,R. Westbrook
+56,2022-02-09,Away,Portland Trail Blazers,L,,105,107,26,30,T. Ariza,A. Bradley,A. Davis,L. James,M. Monk
+57,2022-02-12,Away,Golden State Warriors,L,,115,117,26,31,A. Bradley,A. Davis,L. James,S. Johnson,R. Westbrook
+58,2022-02-16,Home,Utah Jazz,W,,106,101,27,31,A. Davis,L. James,S. Johnson,M. Monk,R. Westbrook
+59,2022-02-25,Home,Los Angeles Clippers,L,,102,105,27,32,T. Ariza,D. Howard,L. James,A. Reaves,R. Westbrook
+60,2022-02-27,Home,New Orleans Pelicans,L,,95,123,27,33,T. Ariza,D. Howard,L. James,A. Reaves,R. Westbrook
+61,2022-03-01,Home,Dallas Mavericks,L,,104,109,27,34,L. James,S. Johnson,M. Monk,A. Reaves,R. Westbrook
+62,2022-03-03,Away,Los Angeles Clippers,L,,111,132,27,35,D. Howard,L. James,M. Monk,A. Reaves,R. Westbrook
+63,2022-03-05,Home,Golden State Warriors,W,,124,116,28,35,L. James,S. Johnson,M. Monk,A. Reaves,R. Westbrook
+64,2022-03-07,Away,San Antonio Spurs,L,,110,117,28,36,T. Horton-Tucker,D. Howard,M. Monk,A. Reaves,R. Westbrook
+65,2022-03-09,Away,Houston Rockets,L,OT,130,139,28,37,L. James,S. Johnson,M. Monk,A. Reaves,R. Westbrook
+66,2022-03-11,Home,Washington Wizards,W,,122,109,29,37,L. James,S. Johnson,M. Monk,A. Reaves,R. Westbrook
+67,2022-03-13,Away,Phoenix Suns,L,,111,140,29,38,L. James,S. Johnson,M. Monk,A. Reaves,R. Westbrook
+68,2022-03-14,Home,Toronto Raptors,L,,103,114,29,39,L. James,S. Johnson,M. Monk,A. Reaves,R. Westbrook
+69,2022-03-16,Away,Minnesota Timberwolves,L,,104,124,29,40,D. Howard,L. James,M. Monk,A. Reaves,R. Westbrook
+70,2022-03-18,Away,Toronto Raptors,W,OT,128,123,30,40,W. Gabriel,D. Howard,L. James,M. Monk,R. Westbrook
+71,2022-03-19,Away,Washington Wizards,L,,119,127,30,41,L. James,S. Johnson,M. Monk,A. Reaves,R. Westbrook
+72,2022-03-21,Away,Cleveland Cavaliers,W,,131,120,31,41,W. Gabriel,D. Howard,L. James,A. Reaves,R. Westbrook
+73,2022-03-23,Home,Philadelphia 76ers,L,,121,126,31,42,W. Gabriel,D. Howard,S. Johnson,A. Reaves,R. Westbrook
+74,2022-03-27,Away,New Orleans Pelicans,L,,108,116,31,43,W. Gabriel,D. Howard,L. James,A. Reaves,R. Westbrook
+75,2022-03-29,Away,Dallas Mavericks,L,,110,128,31,44,D. Howard,S. Johnson,M. Monk,A. Reaves,R. Westbrook
+76,2022-03-31,Away,Utah Jazz,L,,109,122,31,45,T. Ariza,D. Howard,S. Johnson,M. Monk,R. Westbrook
+77,2022-04-01,Home,New Orleans Pelicans,L,,111,114,31,46,A. Bradley,A. Davis,D. Howard,L. James,R. Westbrook
+78,2022-04-03,Home,Denver Nuggets,L,,118,129,31,47,A. Bradley,A. Davis,D. Howard,M. Monk,R. Westbrook
+79,2022-04-05,Away,Phoenix Suns,L,,110,121,31,48,A. Bradley,A. Davis,D. Howard,M. Monk,R. Westbrook
+80,2022-04-07,Away,Golden State Warriors,L,,112,128,31,49,T. Horton-Tucker,D. Howard,S. Johnson,M. Monk,A. Reaves
+81,2022-04-08,Home,Oklahoma City Thunder,W,,120,101,32,49,T. Horton-Tucker,D. Howard,S. Johnson,M. Monk,A. Reaves
+82,2022-04-10,Away,Denver Nuggets,W,OT,146,141,33,49,W. Gabriel,T. Horton-Tucker,S. Johnson,M. Monk,A. Reaves
